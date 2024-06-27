@@ -44,7 +44,7 @@ body {
 .progress-bar {
 	position: absolute;
 	overflow: visible;
-	rotate: -90deg;
+	transform: rotate(-90deg);
 }
 
 .progress-bar_background {
